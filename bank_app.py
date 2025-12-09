@@ -359,7 +359,11 @@ def main():
                 check_balance_ui()
             
             st.sidebar.markdown("---")
+<<<<<<< HEAD
             st.sidebar.info("Developed by student")
+=======
+            st.sidebar.info("Developed by Pawan tripathi")
+>>>>>>> 47c42ad51fe4e6148170efe90525c362bc488896
 
     except Exception as e:
         st.error("A critical error occurred during application startup.")
