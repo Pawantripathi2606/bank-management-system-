@@ -362,7 +362,7 @@ def main():
 <<<<<<< HEAD
             st.sidebar.info("Developed by student")
 =======
-            st.sidebar.info("Developed by Pawan tripathi")
+            
 >>>>>>> 47c42ad51fe4e6148170efe90525c362bc488896
 
     except Exception as e:
